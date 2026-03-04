@@ -1,0 +1,46 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Build directories
+build/
+cmake_build/
+out/
+bin/
+lib/
+
+# Dependency files
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Debug files
+*.dSYM/
+*.su
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Other
+*.log
+*.tmp
